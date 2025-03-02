@@ -2,7 +2,7 @@
 
 Uma aplicação completa para explorar, analisar e gerenciar seus dados do GitHub.
 
-![GitHub Explorer](assets/github-mark/github-mark-white.png)
+![GitHub Explorer](assets/github-mark/github-mark.png)
 
 ## Screenshot da Aplicação
 
